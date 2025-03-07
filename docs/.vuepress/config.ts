@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/jblog/',
   lang: 'zh-CN',
   title: 'junbang&#x27;s private',
   description: 'junbang&#x27;s private',
