@@ -5,7 +5,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'junbang&#x27;s private',
+  title: 'junbang's private project',
   description: 'junbang&#x27;s private',
 
   head: [
