@@ -1,0 +1,11 @@
+{
+  "builds": [
+    {
+      "src": "docs/.vuepress/config.ts",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "docs/.vuepress/dist"
+      }
+    }
+  ]
+}
