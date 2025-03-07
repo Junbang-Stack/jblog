@@ -38,8 +38,8 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: 'https://theme-plume.vuejs.press/plume.png',
-    name: 'junbang&#x27;s private',
-    description: 'junbang&#x27;s private',
+    name: '刘隽邦',
+    description: '春风随我，作狮子鸣',
     // circle: true,
     // location: '',
     // organization: '',
