@@ -3,7 +3,8 @@ pageLayout: home
 externalLinkIcon: false
 config:
   -
-    type: hero
+    type: banner
+    type: blog
     full: true
     background: tint-plate
     hero:
@@ -18,5 +19,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/Junbang-Stack
 ---
