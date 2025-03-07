@@ -1,5 +1,5 @@
 ---
-pageLayout: blog
+pageLayout: home
 externalLinkIcon: false
 config:
   -
