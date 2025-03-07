@@ -7,9 +7,9 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: 刘隽邦
+      tagline: 私人项目&笔记
+      text: 大道契合 感智合一
       actions:
         -
           theme: brand

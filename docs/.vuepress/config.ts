@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
   title: '隽邦的私有项目',
-  description: 'junbang&#x27;s private',
+  description: '隽邦',
 
   head: [
     // 配置站点图标
@@ -18,7 +18,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    // hostname: 'https://your_site_url',
+    hostname: 'https://www.junbang.xyz/',
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
