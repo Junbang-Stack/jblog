@@ -3,8 +3,7 @@ pageLayout: home
 externalLinkIcon: false
 config:
   -
-    type: banner
-    type: blog
+    type: hero
     full: true
     background: tint-plate
     hero:
