@@ -37,11 +37,11 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: 'https://theme-plume.vuejs.press/plume.png',
+    avatar: '.\docs\.vuepress\public\avatar.jpg',
     name: '刘隽邦',
     description: '春风随我，作狮子鸣',
     // circle: true,
-    // location: '',
+     location: '重庆南岸',
     // organization: '',
   },
 
