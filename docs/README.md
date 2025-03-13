@@ -4,9 +4,9 @@ externalLinkIcon: false
 config:
   -
     type: banner
-    banner: "/banner.jpg"
+    banner: "/banner2.jpg"
     bannerMask:
-      light: 0.2
+      light: 0.1
       dark: 0.3
     hero:
       name: 刘隽邦
