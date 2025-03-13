@@ -1,4 +1,3 @@
-<!--
 ---
 pageLayout: home
 externalLinkIcon: false
@@ -21,7 +20,7 @@ config:
           text: Github →
           link: https://github.com/Junbang-Stack
 ---
--->
+<!--
 ---
 home: true
 config:
@@ -45,3 +44,4 @@ config:
           link: https://github.com/Junbang-Stack
           theme: alt
 ---
+-->
