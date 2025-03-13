@@ -21,7 +21,5 @@ config:
           text: Github
           link: https://github.com/Junbang-Stack
           theme: alt
-   -
-     type: blog
 ---
 
