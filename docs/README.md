@@ -25,7 +25,6 @@ config:
 ---
 pageLayout: home
 externalLinkIcon: false
-home: true
 config:
   -
     type: banner
