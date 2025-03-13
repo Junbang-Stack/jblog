@@ -37,14 +37,12 @@ config:
       tagline: Front End Developer
       text: 宁为狂者，不为乡愿
       actions:
-        -
+    -
           text: 博客
           link: /blog/
           theme: brand
-        -
+    -
           text: Github
           link: https://github.com/Junbang-Stack
           theme: alt
-   - 
-     type: blog
 ---
