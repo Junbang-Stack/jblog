@@ -6,7 +6,7 @@ config:
     type: banner
     banner: "/banner.jpg"
     bannerMask:
-      light: 0.1
+      light: 0.2
       dark: 0.3
     hero:
       name: 刘隽邦
@@ -21,4 +21,7 @@ config:
           text: Github
           link: https://github.com/Junbang-Stack
           theme: alt
+   -
+     type: blog
 ---
+
