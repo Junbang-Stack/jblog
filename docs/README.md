@@ -1,3 +1,4 @@
+<!--
 ---
 pageLayout: home
 externalLinkIcon: false
@@ -20,13 +21,15 @@ config:
           text: Github →
           link: https://github.com/Junbang-Stack
 ---
-<!--
+-->
 ---
+pageLayout: home
+externalLinkIcon: false
 home: true
 config:
   -
     type: banner
-    banner: /banner.jpg
+    banner: "/banner.jpg"
     bannerMask:
       light: 0.1
       dark: 0.3
@@ -36,12 +39,13 @@ config:
       text: 宁为狂者，不为乡愿
       actions:
         -
-          text: 我的博客
+          text: 博客
           link: /blog/
           theme: brand
         -
           text: Github
           link: https://github.com/Junbang-Stack
           theme: alt
+   - 
+     type: blog
 ---
--->
