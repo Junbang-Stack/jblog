@@ -29,8 +29,8 @@ export default defineThemeConfig({
 
   /* 站点页脚 */
    footer: {
-     message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">隽邦</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-     copyright: '',
+     message: 'Power by <a target="_blank" href="https://github.com/">github</a> & <a target="_blank" href="https://vercel.com/">vercel</a>',
+     copyright: '© 2025 刘隽邦. All rights reserved. ',
    },
 
   /**
