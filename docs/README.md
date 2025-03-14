@@ -10,7 +10,7 @@ config:
       dark: 0.3
     hero:
       name: 刘隽邦
-      tagline: Front End Developer
+      tagline: It'll help the luck stick
       text: 宁为狂者，不为乡愿
       actions:
         -
