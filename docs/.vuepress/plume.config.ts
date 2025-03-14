@@ -37,7 +37,7 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: '/avatar.jpg',
+    avatar: https://pi.junbang.xyz/images/202503141056097.jpg,
     name: '刘隽邦',
     description: '春风随我，作狮子鸣',
     // circle: true,
