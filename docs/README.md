@@ -22,7 +22,7 @@ config:
           link: https://github.com/Junbang-Stack
           theme: alt
   -
-    type: banner
+    type: blog
 
 ---
 
