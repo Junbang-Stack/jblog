@@ -18,7 +18,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    hostname: 'https://www.junbang.xyz/',
+    hostname: 'https://www.junbang.xyz',
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',
@@ -35,15 +35,15 @@ export default defineUserConfig({
      * 博客
      * @see https://theme-plume.vuejs.press/config/basic/#blog
      */
-       blog: false,  //禁用博客
-    //blog: {
-       //postList: false, // 是否启用文章列表页
-       //tags: true, // 是否启用标签页
-       //archives: true,  //是否启用归档页
-       //categories: true, // 是否启用分类页
-       //postCover: 'right', // 文章封面位置
-       //pagination: 15, // 每页显示文章数量
-       //},
+       //blog: false,  //禁用博客
+    blog: {
+       postList: false, // 是否启用文章列表页
+       tags: true, // 是否启用标签页
+       archives: true,  //是否启用归档页
+       categories: true, // 是否启用分类页
+       postCover: 'right', // 文章封面位置
+       pagination: 15, // 每页显示文章数量
+       },
 
     /* 博客文章页面链接前缀 */
     article: '/article/',
