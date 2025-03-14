@@ -4,7 +4,7 @@ externalLinkIcon: false
 config:
   -
     type: banner
-    banner: "/banner2.jpg"
+    banner: https://pi.junbang.xyz/images/202503141056096.jpg
     bannerMask:
       light: 0.1
       dark: 0.3
