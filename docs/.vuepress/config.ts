@@ -70,13 +70,13 @@ export default defineUserConfig({
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
        */
-      // shiki: {
+       shiki: {
       //   // 强烈建议预设代码块高亮语言，插件默认加载所有语言会产生不必要的时间开销
-      //   languages: ['shell', 'bash', 'typescript', 'javascript'],
-      //   twoslash: true, // 启用 twoslash
-      //   whitespace: true, // 启用 空格/Tab 高亮
-      //   lineNumbers: true, // 启用行号
-      // },
+         languages: ['shell', 'bash', 'typescript', 'javascript'],
+         twoslash: true, // 启用 twoslash
+         whitespace: true, // 启用 空格/Tab 高亮
+         lineNumbers: true, // 启用行号
+       },
 
       /* 本地搜索, 默认启用 */
       // search: true,
@@ -139,12 +139,12 @@ export default defineUserConfig({
        * 为 Markdown 图像添加附加功能。
        * @see https://theme-plume.vuejs.press/config/plugins/markdown-image/
        */
-      // markdownImage: {
-      //   figure: true,       // 启用 figure
-      //   lazyload: true,     // 启用图片懒加载
-      //   mark: true,         // 启用图片标记
-      //   size: true,         // 启用图片大小
-      // },
+       markdownImage: {
+         figure: true,       // 启用 figure
+         lazyload: true,     // 启用图片懒加载
+         mark: true,         // 启用图片标记
+         size: true,         // 启用图片大小
+       },
 
       /**
        * 在 Markdown 文件中导入其他 markdown 文件内容。
@@ -164,7 +164,7 @@ export default defineUserConfig({
        * 水印
        * @see https://theme-plume.vuejs.press/guide/features/watermark/
        */
-      // watermark: true,
+       watermark: true,
 
       /**
        * 评论 comments
