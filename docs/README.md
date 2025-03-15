@@ -18,11 +18,39 @@ config:
           link: /blog/
           theme: brand
         -
-          text: Github
+          text: Github ->
           link: https://github.com/Junbang-Stack
           theme: alt
-  -
+   
+  - 
+    type: custom
+
+  - 
+    type: features
+    features:
+      -
+        title: 笔记
+        icon: 📖
+        details: 学习笔记
+        link: /paperNote/
+      -
+        title: 数据库
+        icon: 📈
+        details: 关系型，NoSQL，中间件的讲解
+        link: /blog/categories/?id=4b16fb
+      -
+        title: 前端
+        icon: 📍
+        details: 前端知识笔记
+        link: /dataMining/
+      -
+        title: 运维基础
+        icon: 📦
+        details: 日常运维笔记
+        link: /designModel/
+  - 
     type: blog
-
 ---
-
+::: center
+# 快速导航
+:::
